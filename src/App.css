@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.expense-form {
+  background-color: #e2e3e5;
+    border-color: #d6d8db;
+}
+
+.expense-table {
+  background-color: #cce5ff;
+  border-color: #b8daff;
+}
+
+.table-bordered th, .table-bordered td {
+  border: 2px solid rgb(0, 0, 0) !important;
+}
